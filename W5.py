@@ -243,5 +243,7 @@ def mencari_indeks(perulangan,Tabel):
     st.table(Tabel2)
     st.caption('Menghitung indeks medium pada variasi udara 3')
     st.table(Tabel1)
+    st.write("untuk kode lebih lengkap,kunjungi google colab dari penulis berikut ini")
+    st.markdown("[Tautan Google colab penulis](https://colab.research.google.com/drive/1CPiKsImvge_F30tmwmEIPpMnnf-_yUoS?usp=sharing)")
 
     
