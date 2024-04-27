@@ -101,7 +101,6 @@ protobuf==4.25.3
 psutil==5.9.5
 pure-eval==0.2.2
 pyarrow==15.0.1
-pycairo @ file:///C:/Users/HP/Downloads/pycairo-1.21.0-cp310-cp310-win_amd64.whl#sha256=549dd71345d5e966655c03dc0a063cf04807e9c17e73bc2af45adf744f39fcea
 pycparser==2.21
 pydeck==0.8.1b0
 pydub==0.25.1
